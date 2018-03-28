@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleListViewToImage</string>
+    <string name="title_activity_text">TextActivity</string>
+</resources>
